@@ -1,6 +1,6 @@
-# NEO GARUD4 — Multi-News Hunter v2
+# NEO GARUD4 — WEBSCRAPER V2
 
-Multi-source news hunter yang ditujukan untuk mengumpulkan kandidat artikel dari beberapa portal berita
+ WEBSCRAPER yang ditujukan untuk mengumpulkan kandidat artikel dari beberapa portal berita
 dan mengekstrak metadata dasar (judul, link, tanggal, snippet). Dirancang sebagai alat kolaboratif sederhana
 dengan output CSV per-run dan opsi sinkronisasi hasil.
 
