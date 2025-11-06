@@ -23,4 +23,23 @@ dengan output CSV per-run dan opsi sinkronisasi hasil.
 
 <img width="1366" height="418" alt="Screenshot_2025-11-05_19_41_34" src="https://github.com/user-attachments/assets/9efb12ee-11e4-48f3-9523-d0668a3cd97c" />
 
+## Command Run Linux/macOS
+git clone https://github.com/NeoGarud4/NEO-GARUD4-WEBSCRAPER-V2.git
+cd NEO-GARUD4-WEBSCRAPER-V2
+python3 -m venv venv
+source venv/bin/activate
+pip install --upgrade pip
+pip install -r requirements.txt
+python3 webscraper.py
+
+## Command Run Windows (PowerShell)
+git clone https://github.com/NeoGarud4/NEO-GARUD4-WEBSCRAPER-V2.git
+chmod +x NEO-GARUD4-WEBSCRAPER-V2
+cd NEO-GARUD4-WEBSCRAPER-V2
+python -m venv venv
+.\venv\Scripts\Activate.ps1   # atau .\venv\Scripts\activate.bat untuk cmd
+pip install --upgrade pip
+pip install -r requirements.txt
+python3 webscraper.py
+
 
