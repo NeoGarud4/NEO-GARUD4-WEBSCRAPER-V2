@@ -35,9 +35,6 @@ pip install -r requirements.txt
 python3 webscraper.py
 
 ## 🚀 How to Run Windows PowerShell
-Clone the repo:
-```bash
-
 git clone https://github.com/NeoGarud4/NEO-GARUD4-WEBSCRAPER-V2.git
 chmod +x NEO-GARUD4-WEBSCRAPER-V2
 cd NEO-GARUD4-WEBSCRAPER-V2
