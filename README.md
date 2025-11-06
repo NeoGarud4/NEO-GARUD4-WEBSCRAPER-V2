@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="webscraper" src="https://github.com/user-attachments/assets/961d441b-db87-477b-80de-603d72dc7540" />
+
 # NEO GARUD4 — WEBSCRAPER V2
 
  WEBSCRAPER yang ditujukan untuk mengumpulkan kandidat artikel dari beberapa portal berita
@@ -16,4 +18,5 @@ dengan output CSV per-run dan opsi sinkronisasi hasil.
 - Logging ke file (`logs/neo_garud4.log`).
 
 ## Struktur proyek
+
 
