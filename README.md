@@ -19,4 +19,8 @@ dengan output CSV per-run dan opsi sinkronisasi hasil.
 
 ## Struktur proyek
 
+<img width="1366" height="616" alt="Screenshot_2025-11-05_19_41_03" src="https://github.com/user-attachments/assets/e413a8c6-9b28-4d56-98a7-0ab2a5e4053c" />
+
+<img width="1366" height="418" alt="Screenshot_2025-11-05_19_41_34" src="https://github.com/user-attachments/assets/9efb12ee-11e4-48f3-9523-d0668a3cd97c" />
+
 
